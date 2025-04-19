@@ -88,6 +88,47 @@ Data Scientist & AI Enthusiast
 This project is for educational and demonstration purposes. Dataset is publicly available via NASA/ORNL open data.
 
 
+
+  # TASK 2
+
+  # Power BI + SQL Server Integration 🚀
+
+This repository documents **Task 2** from my Power BI practical project focused on integrating and transforming data from a local SQL Server source.
+
+## ✅ What I Did
+
+1. **Connected to Local SQL Server**
+   - Created dynamic parameters for `ServerName` and `DatabaseName`
+   - Connected to the `ForestFire` database using these parameters in Power BI
+
+2. **Imported Data Using Power BI**
+   - Loaded data from SQL Server with both:
+     - `Import` mode
+     - `DirectQuery` mode
+   - Observed performance and refresh behavior differences
+
+3. **Transformed Data in Power Query**
+   - Merged `month` and `day` columns to create a new `date` column
+   - Cleaned and previewed the dataset for further visualization
+
+## 🔍 Key Learnings
+
+- How to parameterize SQL Server connections for reusable reports
+- Differences between **Import** vs **DirectQuery**:
+  - **Import** = faster visuals, offline capable
+  - **DirectQuery** = real-time updates, server-side queries
+- Power Query is powerful for merging/splitting and preparing data for dashboards
+
+## 🛠 Tools Used
+
+- Microsoft SQL Server (LocalDB)
+- SQL Server Management Studio (SSMS)
+- Power BI Desktop
+- Power Query Editor
+
+---
+
+
 ![image](https://github.com/user-attachments/assets/6ae85419-8bec-4e99-85c0-3d7498e874ba)
 
 ![image](https://github.com/user-attachments/assets/7caf40c3-67e3-483d-b8f7-3d68f34fc909)
