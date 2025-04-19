@@ -88,3 +88,10 @@ Data Scientist & AI Enthusiast
 This project is for educational and demonstration purposes. Dataset is publicly available via NASA/ORNL open data.
 
 
+![image](https://github.com/user-attachments/assets/6ae85419-8bec-4e99-85c0-3d7498e874ba)
+
+![image](https://github.com/user-attachments/assets/7caf40c3-67e3-483d-b8f7-3d68f34fc909)
+
+![image](https://github.com/user-attachments/assets/9a6c74fb-181b-4768-bdda-7028033e75c7)
+
+
