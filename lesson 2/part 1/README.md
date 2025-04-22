@@ -72,5 +72,23 @@ The final dashboard includes the following:
 - Visualization best practices (cards, filters, charts, maps)
 
 ---
+📌 How to Use
+Download Superstore_Sales_Dashboard.pbix
+
+Open in Power BI Desktop
+
+Interact with slicers and visuals
+
+Modify visuals or connect new data for advanced exploration
+
+📸 Screenshot
+![image](https://github.com/user-attachments/assets/1511bee6-7f45-4e29-a9ac-7a0615ecac92)
+
+🙋‍♀️ Created By
+Dilrabo Khidirova
+Data Science | Business Intelligence | Women in Tech
+🔗 https://www.linkedin.com/in/dilrabo-khidirova-3144b8244/
+
+
 
 
