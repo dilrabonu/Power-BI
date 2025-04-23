@@ -71,7 +71,7 @@ The final dashboard includes the following:
 - Data modeling with relationships
 - Visualization best practices (cards, filters, charts, maps)
 
----
+
 📌 How to Use
 Download Superstore_Sales_Dashboard.pbix
 
