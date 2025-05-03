@@ -104,6 +104,18 @@ Spot shifts in category or gender-based sales
 
 Show customer behavior insights with filters
 
+🧠 Key Learning Outcomes
+Mastery of DAX time functions (DATESINPERIOD, NEXTDAY, etc.)
+
+Cleaned and modeled data for efficient reporting
+
+Used ALL, ALLEXCEPT to control filter context
+
+Combined string operations and conditional logic
+
+Delivered a dashboard-ready Power BI report
+
+
 ![image](https://github.com/user-attachments/assets/4340b56b-eadd-41af-9c16-1e5b3b630b02)
 
 
