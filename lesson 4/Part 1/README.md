@@ -2,6 +2,9 @@
 # 📊 Power BI Sales Dashboard with Advanced DAX Time Intelligence & Cleaning
 
 This Power BI project demonstrates a complete end-to-end sales analysis using **advanced DAX time intelligence functions** and **Power Query-based data cleaning**. It showcases best practices for modeling, transforming, and visualizing sales data professionally.
+
+
+
 ![image.png](attachment:436dfdf4-cde9-4047-9645-29ec9e5bd33e:image.png)
 
 ![image.png](attachment:f3821550-0394-4b53-a6f4-fb3cf0a2552b:image.png)
