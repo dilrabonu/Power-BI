@@ -1,8 +1,6 @@
 
 # ✈️ US Airlines Twitter Sentiment Analysis – Power BI Dashboard
 
-![Power BI Dashboard Screenshot](./your-dashboard-screenshot.png)
-
 ## 📌 Project Overview
 
 This Power BI project analyzes customer sentiment based on 14,640+ tweets directed at major US airlines. The dashboard visualizes how passengers feel (positive, neutral, or negative) using NLP-processed data, DAX measures, and interactive visuals.
@@ -64,6 +62,9 @@ Average Tweet Length = AVERAGE('us-airline'[Tweet Length])
 // Word Count (Column)
 Word Count = 
 LEN(TRIM('us-airline'[text])) - LEN(SUBSTITUTE('us-airline'[text], " ", "")) + 1
+
+
+
 
 ![image](https://github.com/user-attachments/assets/a5da58fb-4cc2-467a-b7c1-a794d2fa96a0)
 
